@@ -261,3 +261,14 @@ C:\Vyacheslau\Coding\Python\todo-project\Todo.User.Api\Todo.User.Api\bin\Debug\n
 C:\Vyacheslau\Coding\Python\todo-project\Todo.User.Api\Todo.User.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Vyacheslau\Coding\Python\todo-project\Todo.User.Api\Todo.User.Api\bin\Debug\net7.0\Dapper.dll
 C:\Vyacheslau\Coding\Python\todo-project\Todo.User.Api\Todo.User.Api\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Vyacheslau\Coding\Python\todo-project\Todo.User.Api\Todo.User.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Vyacheslau\Coding\Python\todo-project\Todo.User.Api\Todo.User.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Vyacheslau\Coding\Python\todo-project\Todo.User.Api\Todo.User.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Vyacheslau\Coding\Python\todo-project\Todo.User.Api\Todo.User.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Vyacheslau\Coding\Python\todo-project\Todo.User.Api\Todo.User.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Vyacheslau\Coding\Python\todo-project\Todo.User.Api\Todo.User.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Vyacheslau\Coding\Python\todo-project\Todo.User.Api\Todo.User.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Vyacheslau\Coding\Python\todo-project\Todo.User.Api\Todo.User.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Vyacheslau\Coding\Python\todo-project\Todo.User.Api\Todo.User.Api\bin\Debug\net7.0\Scrutor.dll
+C:\Vyacheslau\Coding\Python\todo-project\Todo.User.Api\Todo.User.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Vyacheslau\Coding\Python\todo-project\Todo.User.Api\Todo.User.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
